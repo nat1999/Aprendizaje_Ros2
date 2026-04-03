@@ -84,7 +84,7 @@ sudo apt install python3-colcon-common-extensions
 ```
 
 
-### 📁Estructura de carpetas en Ros2
+# 📁Estructura de carpetas en Ros2
 
 En el espacio de trabajo se encuentran cuatro carpetas: build, install, log y src.
 ```bash
