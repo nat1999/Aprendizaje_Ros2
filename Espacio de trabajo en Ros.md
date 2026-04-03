@@ -28,3 +28,13 @@ Después de compilar, se crean automáticamente varias carpetas:
 ls
 ```
 
+Salida esperada:
+
+```bash
+build  install  log  src
+```
+
+
+
+
+
