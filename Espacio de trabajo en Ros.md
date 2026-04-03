@@ -14,7 +14,7 @@ Luego, nos movemos a la carpeta principal del workspace:
 cd ~/ros2_ws
 ```
 
-2. Compilar los paquetes
+### 2. Compilar los paquetes
 
 Para compilar los paquetes dentro del workspace, se utiliza el siguiente comando:
 
@@ -45,4 +45,13 @@ mkdir -p ~/ros2_ws/src
 ```
 
 Nota: Los paquetes siempre se compilan desde la raíz del espacio de trabajo (ros2_ws), no desde la carpeta src.
+
+### 3. Instalar colcon (si no está disponible)
+
+Si el comando colcon build no funciona, es necesario instalarlo:
+
+```bash
+sudo apt update
+sudo apt install python3-colcon-common-extensions
+```
 
