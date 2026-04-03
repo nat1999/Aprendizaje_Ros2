@@ -92,6 +92,6 @@ En el espacio de trabajo se encuentran cuatro carpetas: build, install, log y sr
 > build install log src
 ```
 - `src` : Carpeta donde se encuentra el código fuente.
-build: Es el directorio donde se generan los archivos de compilación para los paquetes. En esta carpeta se compilan los paquetes, se crean los ejecutables y las bibliotecas. 
-install: Esta carpeta es utilizada para guardar los archivos generados, como ejecutables, bibliotecas y archivos compilados. 
-log: En este directorio se encuentran los archivos que contienen información de detallada de los eventos, advertencias y errores generados durante la ejecución de los nodos. 
+- `build`: Es el directorio donde se generan los archivos de compilación para los paquetes. En esta carpeta se compilan los paquetes, se crean los ejecutables y las bibliotecas.
+- `install`: Esta carpeta es utilizada para guardar los archivos generados, como ejecutables, bibliotecas y archivos compilados.
+- `log`: En este directorio se encuentran los archivos que contienen información de detallada de los eventos, advertencias y errores generados durante la ejecución de los nodos. 
