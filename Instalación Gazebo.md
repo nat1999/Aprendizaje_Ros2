@@ -14,7 +14,7 @@ gazebo --version
 Salida esperada: 
 
 ```bash
->Gazebo multi-robot simulator, version 11.10.2
+Gazebo multi-robot simulator, version 11.10.2
 Copyright (C) 2012 Open Source Robotics Foundation.
 Released under the Apache 2 License.
 http://gazebosim.org
