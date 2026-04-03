@@ -21,3 +21,10 @@ Para compilar los paquetes dentro del workspace, se utiliza el siguiente comando
 ```bash
 colcon build
 ```
+
+Después de compilar, se crean automáticamente varias carpetas:
+
+```bash
+ls
+```
+
