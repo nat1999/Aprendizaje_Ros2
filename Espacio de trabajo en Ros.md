@@ -34,7 +34,15 @@ Salida esperada:
 build  install  log  src
 ```
 
+En conclusión así serían los pasos a seguir:
 
+```bash
+mkdir -p ~/ros2_ws/src
+~/ros2_ws/src$ cd ..
+~/ros2_ws$ colcon build 
+~/ros2_ws$ ls
+> build install log src
+```
 
 
 
