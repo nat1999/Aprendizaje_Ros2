@@ -15,8 +15,8 @@ La pila de navegación permite que el robot:
 
 Nav2 incluye paquetes como:
 
-- 'nav2_planner'
-- 'nav2_controller'
-- 'nav2_costmap_2d'
-- 'nav2_bt_navigator'
-- 'nav2_bringup'
+- `nav2_planner`: Planificador global de rutas. 
+- `nav2_controller`: Controlador local del robot.
+- 'nav2_costmap_2d': Detección de obstáculos.
+- 'nav2_bt_navigator': Coordinación de navegación. 
+- 'nav2_bringup': Inicia todos los nodos de Nav2.
