@@ -17,6 +17,9 @@ Nav2 incluye paquetes como:
 
 - `nav2_planner`: Planificador global de rutas. 
 - `nav2_controller`: Controlador local del robot.
-- 'nav2_costmap_2d': Detección de obstáculos.
-- 'nav2_bt_navigator': Coordinación de navegación. 
-- 'nav2_bringup': Inicia todos los nodos de Nav2.
+- `nav2_costmap_2d`: Detección de obstáculos.
+- `nav2_bt_navigator`: Coordinación de navegación. 
+- `nav2_bringup`: Inicia todos los nodos de Nav2.
+
+# 🤖 Adaptación del TurtleBot2 (originalmente ROS 1) para que usar ROS 2 Navigation (Nav2)
+
