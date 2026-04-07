@@ -12,3 +12,11 @@ La pila de navegación permite que el robot:
 -🚧 Detecte obstáculos
 -🧠 Planifique rutas
 -🚗 Se mueva solo hacia un objetivo
+
+Nav2 incluye paquetes como:
+
+- 'nav2_planner'
+- 'nav2_controller'
+- 'nav2_costmap_2d'
+- 'nav2_bt_navigator'
+- 'nav2_bringup'
