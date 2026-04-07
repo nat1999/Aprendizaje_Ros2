@@ -23,3 +23,5 @@ Nav2 incluye paquetes como:
 
 # 🤖 Adaptación del TurtleBot2 para que usar ROS 2 Navigation (Nav2)
 
+
+
